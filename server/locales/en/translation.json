@@ -1,0 +1,9 @@
+{
+    "notification_add_product" : "New Product has been Created By ",
+    "DISPLAY.SUCCESS" : "Success Operation",
+    "DELETED.SUCCESSFULLY" : "Deleted Successfully",
+    "NOT.PERMITTED": "You are not permitted",
+    "DELETE.ORDER.ITEMS": "Delete Order Items Related to this Product First",
+    "DELETE.OFFERS": "Delete Offer Related to this Product First",
+    "DISPLAY.ERROR" : "Error from server"
+}

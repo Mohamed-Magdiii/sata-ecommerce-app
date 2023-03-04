@@ -1,0 +1,6 @@
+export const GET_COUPONS = "GET_COUPONS"
+export const DELETE_COUPON = "DELETE_COUPON"
+export const ADD_COUPONS = "ADD_COUPONS"
+export const GET_EXPIRE_COUPONS = "GET_EXPIRE_COUPONS"
+
+

@@ -1,0 +1,27 @@
+export const FETCH_REQUEST = "FETCH_REQUEST";
+export const FETCH_ALL = "FETCH_ALL";
+export const ADD_NEW = "ADD_NEW";
+export const UPDATE_BY_ID = "UPDATE_BY_ID";
+export const FETCH_ERROR = "FETCH_ERROR";
+// merged
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const GET_PRODUCT = "GET_PRODUCT";
+export const DELETE_PRODUCTS = "DELETE_PRODUCTS";
+export const PRODUCTS_ERROR = "PRODUCTS_ERROR";
+export const ADD_PRODUCTS = "ADD_PRODUCTS";
+export const UPDATE_PRODUCTS = "UPDATE_PRODUCTS";
+export const GET_CATEGORIES = "GET_CATEGORIES";
+export const CATEGORIES_ERROR = "CATEGORIES_ERROR";
+export const GET_RATES = "GET_RATES";
+export const SEARCH_PRODUCT = "SEARCH_PRODUCT";
+export const GET_PRODUCT_CART = "GET_PRODUCT_CART";
+export const ADD_UPDATE_PRODUCT_CART = "ADD_UPDATE_PRODUCT_CART";
+export const DELETE_FROM_CART = "DELETE_FROM_CART";
+export const GET_SEARCH_PRODUCTS_CAT = "GET_SEARCH_PRODUCTS_CAT";
+export const ADD_NEW_ORDER = "ADD_NEW_ORDER";
+export const SEARCH_RATE = "SEARCH_RATE";
+export const DELETE_RATE = "DELETE_RATE";
+export const GET_HOME = "GET_HOME";
+export const GET_RATES_PRODUCT = "GET_RATES_PRODUCT";
+export const ADD_RATE = "ADD_RATE";
+export const DELETE_CART = "DELETE_CART";

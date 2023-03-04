@@ -1,0 +1,9 @@
+export const FETCH_REQUEST = "FETCH_REQUEST";
+export const FETCH_ALL = "FETCH_ALL";
+export const GET_ALL_CUSTOMERS = "GET_ALL_CUSTOMERS";
+export const DELETE_USER_BY_ID = "DELETE_USER_BY_ID";
+export const ADD_NEW_CUSTOMER = "ADD_NEW_CUSTOMER";
+export const ADD_USER = "ADD_USER";
+export const GET_ME_USER = "GET_ME_USER";
+export const UPDATE_ME_USER = "UPDATE_ME_USER";
+export const FETCH_ERROR = "FETCH_ERROR";

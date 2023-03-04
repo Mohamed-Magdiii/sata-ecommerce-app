@@ -1,0 +1,42 @@
+.sata-header {
+  padding: 20px !important;
+}
+
+.left-header-sata img {
+  height: 50px;
+}
+
+.center-header-sata select {
+  padding: 6.5px;
+  border-radius: 16px 0 0 16px;
+}
+
+.center-header-sata button {
+  padding: 9px 15px 6.5px;
+  border-radius: 0px 16px 16px 0px;
+}
+
+.input-search-sata {
+  margin-left: -3.5px;
+  padding: 6.5px;
+}
+
+.right-header-sata > div:first-child {
+  padding-right: 30px;
+}
+
+.right-header-sata > div {
+  position: relative;
+}
+
+@media (max-width: 771px) {
+  .left-header-sata img {
+    height: 40px;
+  }
+}
+
+@media (max-width: 700px) {
+  .center-header-sata input {
+    width: 80%;
+  }
+}
